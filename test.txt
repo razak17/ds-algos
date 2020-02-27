@@ -1,0 +1,2 @@
+One technical detail worth noting is that we intentionally strip trailing newlines from lines as they are read 
+One technical detail worth noting is that we intentionally strip trailing newlines from lines as they are read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read read
